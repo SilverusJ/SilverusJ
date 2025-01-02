@@ -16,7 +16,6 @@ My journey in cybersecurity has led me to develop a passion for this field, and 
 |-----------------------------------------------|----------------------------|
 | RSA Cryptography and Secure Software Engineering                              | <a href="https://github.com/SilverusJ/RSA-Programming-project/blob/main/README.md">RSA Programming project</a>|
 | Secure Socket Programming and Network Security                   | <a href="https://google.com">Detection Lab</a>|
-| Client-Server Networking and Virtualization         | SOC Automation Lab|
 | Windows Server-Based Network Security and Access Control Implementation      | SOC Automation Lab|
 | Software QA and End-to-End Testing                  | SOC Automation Lab|
 | Secure Database Design and Administration |<a href="https://github.com/SilverusJ/Database-Design-project/blob/main/README.md">Database Design Project</a>|
@@ -55,5 +54,4 @@ My journey in cybersecurity has led me to develop a passion for this field, and 
 - RSA Programming project
 - Test case project
 - Database Design project
-- Client-server Networking project
 - Windows Server-Based Network Security and Access Control Implementation project
