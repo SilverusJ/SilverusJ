@@ -19,7 +19,7 @@ My journey in cybersecurity has led me to develop a passion for this field, and 
 | Client-Server Networking and Virtualization         | SOC Automation Lab|
 | Windows Server-Based Network Security and Access Control Implementation      | SOC Automation Lab|
 | Software QA and End-to-End Testing                  | SOC Automation Lab|
-| Secure Database Design and Administration | SOC Automation Lab|
+| Secure Database Design and Administration |<a href="https://github.com/SilverusJ/Database-Design-project/blob/main/README.md">Database Design Project</a>|
 | Digital Forensics and Network Traffic Analysis | SOC Automation Lab|
 
 ## Tools
