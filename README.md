@@ -15,11 +15,11 @@ My journey in cybersecurity has led me to develop a passion for this field, and 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | RSA Cryptography and Secure Software Engineering                              | <a href="https://github.com/SilverusJ/RSA-Programming-project/blob/main/README.md">RSA Programming project</a>|
-| Secure Socket Programming and Network Security                   | <a href="https://google.com">Detection Lab</a>|
-| Windows Server-Based Network Security and Access Control Implementation      | SOC Automation Lab|
-| Software QA and End-to-End Testing                  | SOC Automation Lab|
+| Secure Socket Programming and Network Security                   |<a href="https://github.com/SilverusJ/Secure-Socket-Programming-project">Secure Socket Programming Project</a>|
+| Windows Server-Based Network Security and Access Control Implementation      | <a href="https://github.com/SilverusJ/Windows-Server-Based-Network-Security-and-Access-Control-Implementation-project">Windows Server-Based Network Security and Access Control Implementation</a>|
+| Software QA and End-to-End Testing                  | <a href="https://github.com/SilverusJ/Software-QA-and-End-to-End-Testing-Project">Software QA and End-to-End Testing Project</a>|
 | Secure Database Design and Administration |<a href="https://github.com/SilverusJ/Database-Design-project/blob/main/README.md">Database Design Project</a>|
-| Digital Forensics and Network Traffic Analysis | SOC Automation Lab|
+| Digital Forensics and Network Traffic Analysis | <a href="https://github.com/SilverusJ/Simulated-Cyberattack-and-Forensic-Data-Analysis-project">Simulated Cyberattack and Forensic Data Analysis Project</a>|
 
 ## Tools
 
@@ -36,14 +36,17 @@ My journey in cybersecurity has led me to develop a passion for this field, and 
 ### Infrastructure
 <div>
     <img src="https://img.shields.io/badge/-Windows%20Server-00A4EF?&style=for-the-badge&logo=windows-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
 ### Development
 <div>
-   <img src="https://img.shields.io/badge/-Java-F7B700?&style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-   <img src="https://img.shields.io/badge/-SQL%20Workbench-00618A?&style=for-the-badge&logo=Apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-F7B700?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL%20Workbench-00618A?&style=for-the-badge&logo=Apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Apache%20JMeter-D22128?&style=for-the-badge&logo=apachejmeter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Selenium%20WebDriver-43B02A?&style=for-the-badge&logo=selenium&logoColor=white" />
+
 </div>
 
 
