@@ -4,7 +4,7 @@
 </a>
 
 
-I am an undergraduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
